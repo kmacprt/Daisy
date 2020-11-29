@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/InukaAsith/DaisySL",
+  "repository": "https://github.com/kavinduaj121/EmiliaHikari/",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -19,14 +19,26 @@
       "description": "Your bot token, as a string.",
       "value": ""
     },
+    "AI_API_KEY": {
+      "description": "API key for AI chat..** Exclusively on Daisy**. (Get it from https://coffeehouse.intellivoid.net)",
+      "required" : false,
+      "value": ""
+    },
+    "KMAC_IMG": {
+      "description": "KMAC's Logo.. Telegra.ph only",
+      "value": "https://telegra.ph/file/278f5efdd347220c8a9c9.png"
+    },
+    
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1141839926"
+      "value": "1131653685"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "InukaASiTH"
+      "value": "kavinduaj"
     },
+    
+    
   
     "URL": {
       "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
@@ -34,19 +46,19 @@
     },
     "MESSAGE_DUMP": {
       "description": "optional: a chat where your replied saved messages are stored, to stop people deleting their old",
-      "value": "-1007777777777"
+      "value": "-1001470978862"
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "1141839926"
+      "value": "1131653685"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "1141839926"
+      "value": "1131653685"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "1141839926"
+      "value": "1131653685"
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
