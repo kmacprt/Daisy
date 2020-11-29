@@ -1,6 +1,3 @@
-from tg_bot.sample_config import Config
-
-
 class Development(Config):
     OWNER_ID = 1131653685  # my telegram ID
     OWNER_USERNAME = "kavinduaj"  # my telegram username
