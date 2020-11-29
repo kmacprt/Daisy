@@ -5,7 +5,7 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/InukaAsith/Daisy.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kmacprt/Daisy.git)
 
 A Modular Group management Bot
 Based on [Emilia](https://github.com/Aryahikari/Emiliahikari)
